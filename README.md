@@ -1,4 +1,6 @@
-# Battl1v1/////////////DISCLAIMER//////////////
+# Battl1v1
+
+/////////////DISCLAIMER//////////////
 
 This little "Game" is just a Beta and is not 100% guranteed to be updated, 
 ill just work on it if ill have the mood.
